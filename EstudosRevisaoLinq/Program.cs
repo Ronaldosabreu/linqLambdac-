@@ -95,8 +95,6 @@ namespace EstudosRevisaoLinq
       //somar
       var soma = prod.Sum(x => x.Valor);
 
-
-      Console.WriteLine(temnumeroPar);
       Console.ReadKey();
 
     }
