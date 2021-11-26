@@ -1,0 +1,12 @@
+C:\Users\ronaldo.abreu\Desktop\RevisaoLinq\EstudosRevisaoLinq\Loja.Dominio\bin\Debug\net5.0\Loja.Dominio.deps.json
+C:\Users\ronaldo.abreu\Desktop\RevisaoLinq\EstudosRevisaoLinq\Loja.Dominio\bin\Debug\net5.0\Loja.Dominio.dll
+C:\Users\ronaldo.abreu\Desktop\RevisaoLinq\EstudosRevisaoLinq\Loja.Dominio\bin\Debug\net5.0\ref\Loja.Dominio.dll
+C:\Users\ronaldo.abreu\Desktop\RevisaoLinq\EstudosRevisaoLinq\Loja.Dominio\bin\Debug\net5.0\Loja.Dominio.pdb
+C:\Users\ronaldo.abreu\Desktop\RevisaoLinq\EstudosRevisaoLinq\Loja.Dominio\obj\Debug\net5.0\Loja.Dominio.csproj.AssemblyReference.cache
+C:\Users\ronaldo.abreu\Desktop\RevisaoLinq\EstudosRevisaoLinq\Loja.Dominio\obj\Debug\net5.0\Loja.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronaldo.abreu\Desktop\RevisaoLinq\EstudosRevisaoLinq\Loja.Dominio\obj\Debug\net5.0\Loja.Dominio.AssemblyInfoInputs.cache
+C:\Users\ronaldo.abreu\Desktop\RevisaoLinq\EstudosRevisaoLinq\Loja.Dominio\obj\Debug\net5.0\Loja.Dominio.AssemblyInfo.cs
+C:\Users\ronaldo.abreu\Desktop\RevisaoLinq\EstudosRevisaoLinq\Loja.Dominio\obj\Debug\net5.0\Loja.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\ronaldo.abreu\Desktop\RevisaoLinq\EstudosRevisaoLinq\Loja.Dominio\obj\Debug\net5.0\Loja.Dominio.dll
+C:\Users\ronaldo.abreu\Desktop\RevisaoLinq\EstudosRevisaoLinq\Loja.Dominio\obj\Debug\net5.0\ref\Loja.Dominio.dll
+C:\Users\ronaldo.abreu\Desktop\RevisaoLinq\EstudosRevisaoLinq\Loja.Dominio\obj\Debug\net5.0\Loja.Dominio.pdb
